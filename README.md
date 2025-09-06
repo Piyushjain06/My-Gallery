@@ -21,9 +21,3 @@ Features hover effects, grayscale-to-color transitions, and overlay captions.
 └── images/ # Image assets
 
 ---
-## 🖼️ Preview
-![Gallery Preview](./preview.png)  
-*(Replace with your own screenshot)*
-
----
-
