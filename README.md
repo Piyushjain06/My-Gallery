@@ -16,8 +16,10 @@ Features hover effects, grayscale-to-color transitions, and overlay captions.
 ---
 
 ## 📂 Project Structure
-├── index.html # Main HTML page
-├── style.css # Stylesheet
-└── images/ # Image assets
+  ├── index.html # Main HTML page
+  
+  ├── style.css # Stylesheet
+  
+  └── images/ # Image assets
 
 ---
